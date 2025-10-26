@@ -1,0 +1,35 @@
+body {
+  font-family: "Poppins", sans-serif;
+  background: #faf5f0;
+  color: #333;
+  margin: 0;
+  text-align: center;
+}
+
+.hero {
+  padding: 100px 20px;
+  background: linear-gradient(to bottom, #ffe5ec, #fff);
+}
+
+h1, h2 {
+  margin: 10px 0;
+  color: #b14d57;
+}
+
+.details, .rsvp {
+  margin: 50px auto;
+  max-width: 600px;
+}
+
+button {
+  background: #b14d57;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+button:hover {
+  opacity: 0.8;
+}
